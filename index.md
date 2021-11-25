@@ -12,18 +12,11 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+|The University of Queensland      |Research officer        |2021-Present|
 
 ## Skills
 
 - Intermediate skills in:
-  - Python
-  - R
-  - Linux/Bash
-  - SQL
 - Communication across different audiences
 - Writing a Github Page Resume then teaching it
 
